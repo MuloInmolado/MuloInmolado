@@ -14,9 +14,9 @@ My name is Pablo, I am a fervent developer since I discovered the wide range of 
 
 <div>
  <a href="https://github.com/MuloInmolado/github-readme-stats">
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=MuloInmolado&show_icons=true&theme=tokyonight">
-</a>
-<a href="https://github.com/MuloInmolado/github-readme-stats">
   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=MuloInmolado&layout=donut&theme=tokyonight">
-</a>
+ </a>
+ <a href="https://github.com/MuloInmolado/github-readme-stats">
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=MuloInmolado&show_icons=true&theme=tokyonight">
+ </a>
 </div>
