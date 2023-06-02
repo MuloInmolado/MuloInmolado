@@ -1,5 +1,14 @@
-### Hi there 👋
+### You are cordially welcome 👋
 
+![image](https://github.com/MuloInmolado/MuloInmolado/assets/49321962/47eabd8d-b599-4a2e-912a-eccd1a1f6691)
+<div>
+ <a href="https://github.com/MuloInmolado/github-readme-stats">
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=MuloInmolado&show_icons=true&theme=tokyonight">
+</a>
+<a href="https://github.com/MuloInmolado/github-readme-stats">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=MuloInmolado&layout=donut&theme=tokyonight">
+</a>
+</div>
 <!--
 **MuloInmolado/MuloInmolado** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
