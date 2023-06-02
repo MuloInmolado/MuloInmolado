@@ -1,6 +1,7 @@
 ### You are cordially welcome 👋
 
-![image](https://github.com/MuloInmolado/MuloInmolado/assets/49321962/47eabd8d-b599-4a2e-912a-eccd1a1f6691)
+![image](https://github.com/MuloInmolado/MuloInmolado/assets/49321962/e4cc2d9f-3b9e-4622-88d4-4bbc31360d1f)
+
 <div>
  <a href="https://github.com/MuloInmolado/github-readme-stats">
   <img align="center" src="https://github-readme-stats.vercel.app/api?username=MuloInmolado&show_icons=true&theme=tokyonight">
